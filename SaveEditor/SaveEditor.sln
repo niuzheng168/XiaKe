@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveEditor", "SaveEditor.csproj", "{A4BB7B90-70A9-452E-81F0-70B9A2079A60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WuXia.SaveDataModels", "..\WuXia.SaveDataModels\WuXia.SaveDataModels.csproj", "{CE190914-CBD4-4E4E-B28B-90064335F377}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A4BB7B90-70A9-452E-81F0-70B9A2079A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4BB7B90-70A9-452E-81F0-70B9A2079A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4BB7B90-70A9-452E-81F0-70B9A2079A60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE190914-CBD4-4E4E-B28B-90064335F377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE190914-CBD4-4E4E-B28B-90064335F377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE190914-CBD4-4E4E-B28B-90064335F377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE190914-CBD4-4E4E-B28B-90064335F377}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
